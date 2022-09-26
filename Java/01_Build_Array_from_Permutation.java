@@ -32,7 +32,7 @@ class Solution2 {
 
 
 //approach 3 TC: O(n) SC: O(n) :
-class Solution {
+class Solution3 {
     public int[] buildArray(int[] nums) {
         return Arrays.stream(nums).map(i -> nums[i]).toArray();
     }
