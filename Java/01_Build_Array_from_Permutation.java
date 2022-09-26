@@ -29,3 +29,12 @@ class Solution2 {
         return nums;
     }
 }
+
+
+//approach 3 TC: O(n) SC: O(n) :
+class Solution {
+    public int[] buildArray(int[] nums) {
+        return Arrays.stream(nums).map(i -> nums[i]).toArray();
+    }
+}
+
