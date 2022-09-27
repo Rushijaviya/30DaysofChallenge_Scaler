@@ -23,6 +23,7 @@ Welcome to the repository! Before sending your pull requests, make sure that you
 | Day | Title | Difficulty
 |:---|:---|:---|
 | Day 1 | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/) | Easy
+| Day 2 | [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/) | Easy
 
 
 ## Contributors ✨
