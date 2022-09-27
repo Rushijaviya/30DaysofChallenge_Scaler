@@ -1,3 +1,9 @@
+/*
+ * 1502. Build Array from Permutation
+ * https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/
+ */
+
+
 class Solution {
     public boolean canMakeArithmeticProgression(int[] arr) {
         Arrays.sort(arr);
