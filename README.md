@@ -24,7 +24,7 @@ Welcome to the repository! Before sending your pull requests, make sure that you
 |:---|:---|:---|
 | Day 1 | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/) | Easy
 | Day 2 | [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/) | Easy
-
+| Day 3 | [Queries on Number of Points Inside a Circle](https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/) | Medium
 
 ## Contributors ✨
 
