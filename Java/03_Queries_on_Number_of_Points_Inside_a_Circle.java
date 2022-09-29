@@ -23,3 +23,29 @@ class Solution {
         return ans;
     }
 }
+
+
+/*another way of solving*/
+class Solution {
+    public int[] countPoints(int[][] points, int[][] queries) {
+        int[] answer = new int[queries.length];
+        int i=0;
+        for(int ansquery[]: queries){
+            int a=ansquery[0];
+            int b=ansquery[1];
+            int r=ansquery[2];
+            int sum=0;
+            for(int[] p:points){
+                int x1=p[0];
+                int y1=p[1];
+                if(r * r>= (a-x1)*(a-x1) + (b-y1)*(b-y1)){
+                    sum++;
+                }
+            }
+            answer[i++] = sum;
+            
+        }
+        return answer;
+        
+    }
+}
