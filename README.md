@@ -25,9 +25,9 @@ Welcome to the repository! Before sending your pull requests, make sure that you
 | Day 1 | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/) | Easy
 | Day 2 | [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/) | Easy
 | Day 3 | [Queries on Number of Points Inside a Circle](https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/) | Medium
+| Day 4 | [N-Queens](https://leetcode.com/problems/n-queens/) | Hard
 
 ## Contributors ✨
-
 
 <a href="https://github.com/Rushijaviya/30DaysofChallenge_Scaler/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Rushijaviya/30DaysofChallenge_Scaler" />
