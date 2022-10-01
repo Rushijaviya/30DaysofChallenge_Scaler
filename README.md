@@ -27,6 +27,7 @@ Welcome to the repository! Before sending your pull requests, make sure that you
 | Day 3 | [Queries on Number of Points Inside a Circle](https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/) | Medium
 | Day 4 | [N-Queens](https://leetcode.com/problems/n-queens/) | Hard
 | Day 5 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Easy
+| Day 6 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Medium
 
 ## Contributors ✨
 
