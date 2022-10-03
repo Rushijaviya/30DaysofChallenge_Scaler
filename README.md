@@ -29,6 +29,7 @@ Welcome to the repository! Before sending your pull requests, make sure that you
 | Day 5 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Easy
 | Day 6 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Medium
 | Day 7 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard
+| Day 8 | [Big Sorting](https://www.hackerrank.com/challenges/big-sorting/problem) | Easy
 
 ## Contributors ✨
 
