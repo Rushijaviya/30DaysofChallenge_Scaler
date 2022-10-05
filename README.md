@@ -31,6 +31,7 @@ Welcome to the repository! Before sending your pull requests, make sure that you
 | Day 7 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard
 | Day 8 | [Big Sorting](https://www.hackerrank.com/challenges/big-sorting/problem) | Easy
 | Day 9 | [The Full Counting Sort](https://www.hackerrank.com/challenges/countingsort4/problem) | Medium
+| Day 10 | [Minimum Operations to Make a Uni-Value Grid](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/) | Medium
 
 ## Contributors ✨
 
