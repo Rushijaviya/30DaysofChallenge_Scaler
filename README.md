@@ -32,6 +32,7 @@ Welcome to the repository! Before sending your pull requests, make sure that you
 | Day 8 | [Big Sorting](https://www.hackerrank.com/challenges/big-sorting/problem) | Easy
 | Day 9 | [The Full Counting Sort](https://www.hackerrank.com/challenges/countingsort4/problem) | Medium
 | Day 10 | [Minimum Operations to Make a Uni-Value Grid](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/) | Medium
+| Day 11 | [Power Of Numbers](https://practice.geeksforgeeks.org/problems/power-of-numbers-1587115620/1) | Easy
 
 ## Contributors ✨
 
