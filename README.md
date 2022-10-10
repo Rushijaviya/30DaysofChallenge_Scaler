@@ -36,6 +36,7 @@ Welcome to the repository! Before sending your pull requests, make sure that you
 | Day 12 | [Killing Spree](https://practice.geeksforgeeks.org/problems/killing-spree3020/1) | Medium
 | Day 13 | [Binary Matrix with at most K 1s](https://practice.geeksforgeeks.org/problems/largest-square-in-a-binary-matrix-with-at-most-k-1s-for-multiple-queries/1) | Medium
 | Day 14 | [Xor Palindrome](https://www.codechef.com/submit/XOR_PAL) | Easy
+| Day 15 | [Strong Password](https://www.hackerrank.com/challenges/strong-password/problem) | Easy
 
 ## Contributors ✨
 
