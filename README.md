@@ -38,6 +38,7 @@ Welcome to the repository! Before sending your pull requests, make sure that you
 | Day 14 | [Xor Palindrome](https://www.codechef.com/submit/XOR_PAL) | Easy
 | Day 15 | [Strong Password](https://www.hackerrank.com/challenges/strong-password/problem) | Easy
 | Day 16 | [Print Anagrams Together](https://practice.geeksforgeeks.org/problems/print-anagrams-together/1) | Medium
+| Day 17 | [Maximum Score Words Formed by Letters](https://leetcode.com/problems/maximum-score-words-formed-by-letters/) | Hard
 
 ## Contributors ✨
 
