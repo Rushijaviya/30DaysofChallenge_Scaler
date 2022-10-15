@@ -41,6 +41,7 @@ Welcome to the repository! Before sending your pull requests, make sure that you
 | Day 17 | [Maximum Score Words Formed by Letters](https://leetcode.com/problems/maximum-score-words-formed-by-letters/) | Hard
 | Day 18 | [Delete node in Doubly Linked List](https://practice.geeksforgeeks.org/problems/delete-node-in-doubly-linked-list/1) | Basic
 | Day 19 | [Compare two linked lists](https://www.hackerrank.com/challenges/compare-two-linked-lists/problem) | Easy
+| Day 20 | [Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/) | Medium
 
 ## Contributors ✨
 
