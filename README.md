@@ -42,6 +42,7 @@ Welcome to the repository! Before sending your pull requests, make sure that you
 | Day 18 | [Delete node in Doubly Linked List](https://practice.geeksforgeeks.org/problems/delete-node-in-doubly-linked-list/1) | Basic
 | Day 19 | [Compare two linked lists](https://www.hackerrank.com/challenges/compare-two-linked-lists/problem) | Easy
 | Day 20 | [Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/) | Medium
+| Day 21 | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/) | Medium
 
 ## Contributors ✨
 
