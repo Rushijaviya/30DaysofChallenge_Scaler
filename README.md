@@ -43,6 +43,7 @@ Welcome to the repository! Before sending your pull requests, make sure that you
 | Day 19 | [Compare two linked lists](https://www.hackerrank.com/challenges/compare-two-linked-lists/problem) | Easy
 | Day 20 | [Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/) | Medium
 | Day 21 | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/) | Medium
+| Day 22 | [Reversing the equation](https://practice.geeksforgeeks.org/problems/reversing-the-equation2205/1) | Easy
 
 ## Contributors ✨
 
