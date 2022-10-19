@@ -45,6 +45,7 @@ Welcome to the repository! Before sending your pull requests, make sure that you
 | Day 21 | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/) | Medium
 | Day 22 | [Reversing the equation](https://practice.geeksforgeeks.org/problems/reversing-the-equation2205/1) | Easy
 | Day 23 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy
+| Day 24 | [Simple Text Editor](https://www.hackerrank.com/challenges/simple-text-editor/problem) | Medium
 
 ## Contributors ✨
 
