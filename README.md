@@ -47,6 +47,7 @@ Welcome to the repository! Before sending your pull requests, make sure that you
 | Day 23 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy
 | Day 24 | [Simple Text Editor](https://www.hackerrank.com/challenges/simple-text-editor/problem) | Medium
 | Day 25 | [132 Pattern](https://leetcode.com/problems/132-pattern/) | Medium
+| Day 26 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | Easy
 
 ## Contributors ✨
 
